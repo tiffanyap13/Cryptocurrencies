@@ -1,1 +1,2 @@
 # Cryptocurrencies
+The purpose of this assignment was to assist a prominent investment bank, who is interested in offering a new cryptocurrency investment portfolio for its customers, with the creation of a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. Unsupervised learning and a clustering algorithm were used to analyze the data, of which the final product will be shared with the board.
